@@ -1,9 +1,0 @@
-C:\Users\Kafein\IdeaProjects\food-ordering-system\infrastructure\kafka\kafka-model\src\main\java\com\food\ordering\system\kafka\order\avro\model\PaymentOrderStatus.java
-C:\Users\Kafein\IdeaProjects\food-ordering-system\infrastructure\kafka\kafka-model\src\main\java\com\food\ordering\system\kafka\order\avro\model\RestaurantApprovalRequestAvroModel.java
-C:\Users\Kafein\IdeaProjects\food-ordering-system\infrastructure\kafka\kafka-model\src\main\java\com\food\ordering\system\kafka\order\avro\model\RestaurantOrderStatus.java
-C:\Users\Kafein\IdeaProjects\food-ordering-system\infrastructure\kafka\kafka-model\src\main\java\com\food\ordering\system\kafka\order\avro\model\PaymentResponseAvroModel.java
-C:\Users\Kafein\IdeaProjects\food-ordering-system\infrastructure\kafka\kafka-model\src\main\java\com\food\ordering\system\kafka\order\avro\model\PaymentRequestAvroModel.java
-C:\Users\Kafein\IdeaProjects\food-ordering-system\infrastructure\kafka\kafka-model\src\main\java\com\food\ordering\system\kafka\order\avro\model\PaymentStatus.java
-C:\Users\Kafein\IdeaProjects\food-ordering-system\infrastructure\kafka\kafka-model\src\main\java\com\food\ordering\system\kafka\order\avro\model\Product.java
-C:\Users\Kafein\IdeaProjects\food-ordering-system\infrastructure\kafka\kafka-model\src\main\java\com\food\ordering\system\kafka\order\avro\model\OrderApprovalStatus.java
-C:\Users\Kafein\IdeaProjects\food-ordering-system\infrastructure\kafka\kafka-model\src\main\java\com\food\ordering\system\kafka\order\avro\model\RestaurantApprovalResponseAvroModel.java
