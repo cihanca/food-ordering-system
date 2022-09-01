@@ -1,0 +1,32 @@
+{
+  "groups": [
+    {
+      "name": "order-service",
+      "type": "org.food.ordering.system.order.service.domain.config.OrderServiceConfigData",
+      "sourceType": "org.food.ordering.system.order.service.domain.config.OrderServiceConfigData"
+    }
+  ],
+  "properties": [
+    {
+      "name": "order-service.payment-request-topic-name",
+      "type": "java.lang.String",
+      "sourceType": "org.food.ordering.system.order.service.domain.config.OrderServiceConfigData"
+    },
+    {
+      "name": "order-service.payment-response-topic-name",
+      "type": "java.lang.String",
+      "sourceType": "org.food.ordering.system.order.service.domain.config.OrderServiceConfigData"
+    },
+    {
+      "name": "order-service.restaurant-approval-request-topic-name",
+      "type": "java.lang.String",
+      "sourceType": "org.food.ordering.system.order.service.domain.config.OrderServiceConfigData"
+    },
+    {
+      "name": "order-service.restaurant-approval-response-topic-name",
+      "type": "java.lang.String",
+      "sourceType": "org.food.ordering.system.order.service.domain.config.OrderServiceConfigData"
+    }
+  ],
+  "hints": []
+}
