@@ -1,0 +1,3 @@
+org\food\ordering\system\application\handler\ErrorDTO$ErrorDTOBuilder.class
+org\food\ordering\system\application\handler\ErrorDTO.class
+org\food\ordering\system\application\handler\GlobalExceptionHandler.class

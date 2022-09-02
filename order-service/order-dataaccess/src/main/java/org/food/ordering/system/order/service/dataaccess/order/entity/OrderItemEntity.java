@@ -13,7 +13,7 @@ import java.util.UUID;
 @Setter
 @Getter
 @IdClass(OrderItemEntityId.class)
-@Table(name = "items")
+@Table(name = "order_items")
 @Entity
 public class OrderItemEntity {
 
