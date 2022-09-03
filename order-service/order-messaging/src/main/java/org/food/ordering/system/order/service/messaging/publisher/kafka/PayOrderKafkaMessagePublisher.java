@@ -3,6 +3,7 @@ package org.food.ordering.system.order.service.messaging.publisher.kafka;
 import com.food.ordering.system.kafka.order.avro.model.RestaurantApprovalRequestAvroModel;
 import lombok.RequiredArgsConstructor;
 import lombok.extern.slf4j.Slf4j;
+import org.food.ordering.system.kafka.producer.KafkaMessageHelper;
 import org.food.ordering.system.kafka.producer.service.KafkaProducer;
 import org.food.ordering.system.order.service.domain.config.OrderServiceConfigData;
 import org.food.ordering.system.order.service.domain.event.OrderPaidEvent;
@@ -18,7 +19,7 @@ public class PayOrderKafkaMessagePublisher implements OrderPaidRestaurantRequest
     private final OrderMessagingDataMapper orderMessagingDataMapper;
     private final OrderServiceConfigData orderServiceConfigData;
     private final KafkaProducer<String, RestaurantApprovalRequestAvroModel> kafkaProducer;
-    private final OrderKafkaMessageHelper orderKafkaMessageHelper;
+    private final KafkaMessageHelper orderKafkaMessageHelper;
 
     @Override
     public void publish(OrderPaidEvent domainEvent) {
