@@ -1,4 +1,0 @@
-org\food\ordering\system\kafka\producer\KafkaProducerConfig.class
-org\food\ordering\system\kafka\producer\service\impl\KafkaProducerImpl.class
-org\food\ordering\system\kafka\producer\service\KafkaProducer.class
-org\food\ordering\system\kafka\producer\exception\KafkaProducerException.class
